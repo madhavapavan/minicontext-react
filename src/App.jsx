@@ -10,7 +10,7 @@ function App() {
 
   return (
     <UserContextProvider>
-      <h1>React video for context API</h1>
+      <h1>React for context API</h1>
       <Login />
       <Profile />
     </UserContextProvider>
